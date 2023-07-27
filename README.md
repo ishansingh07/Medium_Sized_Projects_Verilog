@@ -18,7 +18,7 @@ To get started with these medium-sized Verilog projects, you'll need the followi
 
 ## Project List
 
-1. [Conway's Game of Life](./Conway's_Game_of_Life)  - Conway's Game of Life is a fascinating and iconic example of a cellular automaton, a mathematical model of a self-replicating system with simple rules.
+1. [Conway's Game of Life](https://github.com/ishansingh07/Medium_Sized_Projects_Verilog/tree/main/Conway's%20Game%20of%20Life)  - Conway's Game of Life is a fascinating and iconic example of a cellular automaton, a mathematical model of a self-replicating system with simple rules.
 
 ## How to Use
 
