@@ -18,13 +18,7 @@ To get started with these medium-sized Verilog projects, you'll need the followi
 
 ## Project List
 
-1. [UART Communication Module](./UART_Communication_Module) - A Universal Asynchronous Receiver-Transmitter (UART) module for serial communication.
-2. [Finite State Machine (FSM)](./Finite_State_Machine) - A versatile FSM capable of handling various sequences and operations.
-3. [Digital Clock](./Digital_Clock) - A digital clock that displays hours, minutes, and seconds on a seven-segment display.
-4. [I2C Controller](./I2C_Controller) - An I2C controller for interfacing with I2C devices like sensors and memory chips.
-5. [SPI Master](./SPI_Master) - An SPI master module to communicate with SPI-compatible peripherals.
-6. [PWM Generator](./PWM_Generator) - A Pulse Width Modulation (PWM) generator for controlling LED brightness or motor speed.
-7. [Traffic Light Controller](./Traffic_Light_Controller) - An intelligent traffic light controller capable of handling traffic flow efficiently.
+1. [Conway's Game of Life](./Conway's Game of Life) - Conway's Game of Life is a fascinating and iconic example of a cellular automaton, a mathematical model of a self-replicating system with simple rules.
 
 ## How to Use
 
