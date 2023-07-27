@@ -1,7 +1,5 @@
 # Medium-Sized Verilog Projects
 
-![Verilog Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Verilog_Logo.svg/250px-Verilog_Logo.svg.png)
-
 Welcome to the world of medium-sized Verilog projects! In this repository, you'll find a collection of Verilog projects that strike the right balance between complexity and manageability, providing an excellent opportunity to enhance your skills and explore the fascinating realm of digital circuit design.
 
 ## About Verilog
