@@ -17,7 +17,7 @@ To get started with these medium-sized Verilog projects, you'll need the followi
 ## Project List
 
 1. [Conway's Game of Life](https://github.com/ishansingh07/Medium_Sized_Projects_Verilog/tree/main/Conway's%20Game%20of%20Life)  - Conway's Game of Life is a fascinating and iconic example of a cellular automaton, a mathematical model of a self-replicating system with simple rules.
-
+2. [12-hour alarm clock](https://github.com/ishansingh07/Medium_Sized_Projects_Verilog/tree/main/Alarm%20Clock) - The 12-hour alarm clock in Verilog is a digital clock with alarm functionality designed to operate in a 12-hour time format (AM/PM) using Binary-Coded Decimal (BCD) representation for hours, minutes, and seconds. 
 ## How to Use
 
 Each project folder contains the Verilog source files and a testbench to simulate the design. To run the simulations:
