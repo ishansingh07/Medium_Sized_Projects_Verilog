@@ -1,0 +1,13 @@
+Time Step: 650000, Clock :  1 2: 0 0: 0 0 AM, Alarm: 0
+Time Step: 1650000, Clock :  1 2: 0 0: 0 1 AM, Alarm: 0        
+Time Step: 2650000, Clock :  0 8: 3 1: 5 8 AM, Alarm: 0        
+Time Step: 3650000, Clock :  0 8: 3 1: 5 9 AM, Alarm: 0        
+Time Step: 4650000, Clock :  0 8: 3 2: 0 0 AM, Alarm: 0        
+Time Step: 5650000, Clock :  0 8: 3 2: 0 1 AM, Alarm: 0        
+Time Step: 6650000, Clock :  0 8: 3 2: 0 2 AM, Alarm: 0        
+Time Step: 7650000, Clock :  0 8: 3 2: 0 3 AM, Alarm: 1        
+Time Step: 8650000, Clock :  0 8: 3 2: 0 4 AM, Alarm: 1        
+Time Step: 9650000, Clock :  0 8: 3 2: 0 5 AM, Alarm: 0        
+Time Step: 10650000, Clock :  0 8: 3 2: 0 6 AM, Alarm: 0       
+Time Step: 11650000, Clock :  0 8: 3 2: 0 7 AM, Alarm: 0       
+alarm_clk_tb.v:78: $finish called at 12000000 (1us)
